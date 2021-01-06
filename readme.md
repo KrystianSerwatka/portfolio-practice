@@ -2,6 +2,10 @@
 
 Yes it is a test portfolio :)
 
+GitHub hosting does not support PHP files either."GitHub Pages is a static site hosting service and doesn’t support server-side code such as, PHP, Ruby, or Python.”
+
+So if you want to test the contact tab, you have to clone the project or download it, then run it through xampp and run it on your localhost. Enjoy :)
+
 ----
 
 ## Why I created a test portfolio?
